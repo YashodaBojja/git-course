@@ -1,1 +1,3 @@
-Hello world my first project. 
+Hello world my first project.
+take input from user
+add the values 
